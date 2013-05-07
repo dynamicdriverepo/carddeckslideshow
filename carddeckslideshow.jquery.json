@@ -1,9 +1,9 @@
 {
-  "name": "carddeckmenu",
+  "name": "carddeckslideshow",
   "title": "Card Deck Slideshow",
-  "description": "This content slideshow script utilizes CSS3 transform to rotate and "unhinge" each slide to show the next, similar to a stacked pile of cards. At the heart of it all, however, is a versatile slideshow that supports both auto and manual mode, persistence of the last viewed slide, inline or ajax content, and more.",
+  "description": "This content slideshow script utilizes CSS3 transform to rotate and \"unhinge\" each slide to show the next, similar to a stacked pile of cards. At the heart of it all, however, is a versatile slideshow that supports both auto and manual mode, persistence of the last viewed slide, inline or ajax content, and more.",
   "keywords": ["slideshow", "rotator", "rotate", "content", "css3", "transform"],
-  "version": "1.1.0",
+  "version": "1.0.0",
   "author": {
     "name": "Dynamic Drive",
     "email" : "ddrivehelp@gmail.com",
